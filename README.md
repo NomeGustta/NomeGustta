@@ -10,9 +10,7 @@ Apaixonado por desenvolver soluções intuitivas e eficientes, eu me especializo
 
 Com dedicação crescente às tecnologias mobile, estou em constante evolução, sempre buscando aprimorar minhas habilidades em linguagens e frameworks relevantes, como Java, Kotlin e React Native. Já contribuí em projetos que automatizaram processos e aumentaram a eficiência, impactando diretamente a experiência do usuário e a produtividade da equipe.
 
-Recentemente, trabalhei como Desenvolvedor Freelancer em uma empresa, onde otimizei sistemas online, melhorando significativamente o fluxo de trabalho. Nessa função, aprendi a importância de uma interface simples e intuitiva, além de ter me envolvido na automação de processos empresariais.
-
-Além do trabalho técnico, tenho uma forte paixão por compartilhar conhecimento e acompanhar as tendências tecnológicas. Atualmente, estou desenvolvendo um portfólio minimalista que reflete meu estilo profissional: moderno e focado em detalhes técnicos e visuais.
+Recentemente, trabalhei como Desenvolvedor Freelancer em uma empresa, onde otimizei sistemas online, melhorando significativamente o fluxo de trabalho. Nessa função, aprendi a importância de uma interface simples e intuitiva, além do trabalho técnico, tenho uma forte paixão por compartilhar conhecimento e acompanhar as tendências tecnológicas. 
 
 Nos meus momentos livres, gosto de explorar novas formas de combinar design e desenvolvimento, criando interfaces que vão além da funcionalidade, com foco na estética e na inovação.
 
