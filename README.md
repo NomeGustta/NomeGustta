@@ -2,7 +2,7 @@
 
 Sou Luis Gustavo, um desenvolvedor de software apaixonado e entusiasta de tecnologia em início de carreira, mas com muita dedicação e vontade de aprender. Estou focado em especializar-me no desenvolvimento mobile para Android e explorar tecnologias de front-end. Atualmente, estou aprimorando minhas habilidades e sempre em busca de novos desafios e oportunidades para crescer na área de programação.
 
-> “Vivendo entre a ansia de codar e o tédio de debugar.” 
+> “Vivendo entre a ansia de codar e o tédio de debugar.” - Anônimo
 
 # 🚀 Expertise
 
