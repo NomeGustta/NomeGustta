@@ -6,11 +6,11 @@ Sou Luis Gustavo, um desenvolvedor de software apaixonado e entusiasta de tecnol
 
 # 🚀 Expertise
 
-Apaixonado por desenvolver soluções intuitivas e eficientes, eu me especializo em desenvolvimento mobile, com foco no ecossistema Android. Combino práticas de desenvolvimento moderno com as melhores estratégias de UX para garantir uma experiência fluida aos usuários.
+Apaixonado por desenvolver soluções intuitivas e eficientes, eu quero me especializar em desenvolvimento mobile, com foco no ecossistema Android. Combino práticas de desenvolvimento moderno com as melhores estratégias de UX para garantir uma experiência fluida aos usuários.
 
-Com dedicação crescente às tecnologias mobile, estou em constante evolução, sempre buscando aprimorar minhas habilidades em linguagens e frameworks relevantes, como Java, Kotlin e React Native. Já contribuí em projetos que automatizaram processos e aumentaram a eficiência, impactando diretamente a experiência do usuário e a produtividade da equipe.
+Com dedicação crescente às tecnologias mobile, estou em constante evolução, sempre buscando aprimorar minhas habilidades em linguagens e frameworks relevantes, como Java, Kotlin, React Native e Flutter. Já contribuí em projetos que automatizaram processos e aumentaram a eficiência, impactando diretamente a experiência do usuário e a produtividade da equipe.
 
-Recentemente, trabalhei como Desenvolvedor Freelancer em uma empresa, onde otimizei sistemas online, melhorando significativamente o fluxo de trabalho. Nessa função, aprendi a importância de uma interface simples e intuitiva, além do trabalho técnico, tenho uma forte paixão por compartilhar conhecimento e acompanhar as tendências tecnológicas. 
+Recentemente, trabalhei como desenvolvedor freelancer em uma empresa, onde otimizei sistemas online, melhorando significativamente o fluxo de trabalho. Nessa função, aprendi a importância de uma interface simples e intuitiva, além do trabalho técnico, tenho uma forte paixão por compartilhar conhecimento e acompanhar as tendências tecnológicas. 
 
 Nos meus momentos livres, gosto de explorar novas formas de combinar design e desenvolvimento, criando interfaces que vão além da funcionalidade, com foco na estética e na inovação.
 
